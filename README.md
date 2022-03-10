@@ -2,7 +2,7 @@
 
 This codebase contains the python scripts for calculating concern levels during COVID-19 using RoBERTa based transformers, proposed in the paper titled "Concern levels during COVID-19: An AI-based approach for social media analysis".
 
-Presented at ICIICT - 2022 International Conference on Innovations in Information and Communication Technologies
+Presented at [ICIICT - 2022 International Conference on Innovations in Information and Communication Technologies] (https://computingconf.com/iciict/about.php)
 
 ## Contents and Description
 
